@@ -16,7 +16,6 @@ Currently, I am immersed in the world of Artificial Intelligence, exploring:
 * 🗣️ **Natural Language Processing (NLP) and LLMs:** Development and application of language models for various tasks.
 * 🛠️ **AI-focused Software Development:** Creating intelligent and scalable solutions.
 
-I am looking for **new job opportunities, challenging projects, and collaborations** where I can apply and expand my knowledge in Artificial Intelligence, contributing to the development of innovative solutions. I have a strong interest in positions such as AI/ML Developer, Junior Data Scientist, or Machine Learning Engineer.
 
 ---
 
